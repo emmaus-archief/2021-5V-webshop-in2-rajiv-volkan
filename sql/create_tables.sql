@@ -1,8 +1,8 @@
-DROP TABLE IF EXISTS autos; 
-CREATE TABLE autos (
+DROP TABLE IF EXISTS merk; 
+CREATE TABLE merk (
   ID SERIAL PRIMARY KEY,
   code VARCHAR(15),
-  name VARCHAR(255),
+  merk_naam VARCHAR(255),
   description TEXT,
   price NUMERIC(10, 2)
   model_id INTEGER 
