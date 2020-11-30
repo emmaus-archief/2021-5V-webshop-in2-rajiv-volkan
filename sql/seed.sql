@@ -13,4 +13,11 @@ insert into kleur values(6,"groen");
 insert into kleur values(7,"geel");
 
 
-insert into model values
+insert into merk values (1, "Audi");
+insert into merk values (2, "Mercedes");
+insert into merk values (3, "Nissan");
+insert into merk values (4,"Volkswagen");
+insert into merk values (5, "Lamborghini");
+insert into merk values (6, "Kia");
+insert into merk values (7, "BMW");
+insert into merk values (8, "Opel");
