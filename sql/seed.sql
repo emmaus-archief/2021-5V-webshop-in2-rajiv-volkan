@@ -40,11 +40,11 @@ insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soo
 insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values()
 insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values()
 insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values()
-insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values()
-insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values()
-insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values()
-insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values()
-insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values()
-insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values()
-insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values()
-insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values()
+insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values(9, 09-1234, "Zwarte Mercedes GT63s AMG", "Mooie zwarte Mercedes", 200.000, 1,2,5);
+insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values(10,10-1234,"Witte Audi A4", "Mooie witte Audi", 50.000, 2, 1, 6);
+insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values(11, 11-1234,"Zwarte Opel Astra","Mooie zwarte Opel", 25.000, 1,8, 1 );
+insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values(12, 12-1234, "Groene Lamborghini Hurucan Perfomante", "Mooie groene Lamborghini", 250.000, 6,5,4);
+insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values(13, 13-1234, "Grijze `Volkswagen Polo", "Mooie grijze Volkswagen Polo", 25.000, 3, 4,2);
+insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values(14, 14-1234, "Zwarte Kia Stonic", "Mooie zwarte Kia Stonic", 32.000, 1, 6, 3);
+insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values(15, 15-1234, "Witte Mercedes c63amg", "Mooie witte Mercedes c63amg",60.000,2,2,5);
+insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values(16, 16-1234, "Blauwe Audi Rs3", "Mooie blauwe audi Rs3",50.000, 5,1,5);
