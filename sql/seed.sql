@@ -32,14 +32,14 @@ insert into soort_auto(id, soort_auto_naam) values(6, "Stationwagon");
 
 
 
-insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values()
-insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values()
-insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values()
-insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values()
-insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values()
-insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values()
-insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values()
-insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values()
+insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values(1,01-123,"Nissan Qaushqai","Mooie stevige grijze auto", 30.000,3,3,3 );
+insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values(2, 02-123,"BMW M5", "Een zwarte auto", 75.000,1,7,5);
+insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values(3,03-123, "Lamborghini Aventador", "Een gele auto", 300.000, 7,5,4 );
+insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values(4,04-123,"Kia Picanto", "Een rode auto", 20.000, 4,6,2);
+insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values(5,05-123, 'Volkswagen GTI', "Een witte auto", 35.000, 2,4,2);
+insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values(6,06-123, "Nissan GTR R33", " Een witte auto", 20.000,2,3,4);
+insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values(7,07-123, "Kia Niro", "Een zwarte auto", 30.000, 1, 6, 3);
+insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values(8,08-123, "Lamborghini Urus", "Een blauwe auto", 300.000, 5,5,3);
 insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values(9, 09-1234, "Zwarte Mercedes GT63s AMG", "Mooie zwarte Mercedes", 200.000, 1,2,5);
 insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values(10,10-1234,"Witte Audi A4", "Mooie witte Audi", 50.000, 2, 1, 6);
 insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values(11, 11-1234,"Zwarte Opel Astra","Mooie zwarte Opel", 25.000, 1,8, 1 );
