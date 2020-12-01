@@ -21,3 +21,11 @@ insert into merk values (5, "Lamborghini");
 insert into merk values (6, "Kia");
 insert into merk values (7, "BMW");
 insert into merk values (8, "Opel");
+
+
+insert into soort_auto values(1,"Sedan");
+insert into soort_auto values(2,"hatchback");
+insert into soort_auto values(3, "SUV");
+insert into soort_auto values(4,"Sport");
+insert into soort_auto values(5, "Coupé");
+insert into soort_auto values(6, "Stationwagon");
