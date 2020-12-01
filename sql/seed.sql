@@ -47,3 +47,4 @@ insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soo
 insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values()
 insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values()
 insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values()
+insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values()
