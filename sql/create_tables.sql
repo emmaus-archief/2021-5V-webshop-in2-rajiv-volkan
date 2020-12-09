@@ -5,25 +5,25 @@ CREATE TABLE autos (
   auto_naam TEXT,
   description TEXT,
   price NUMERIC(10, 2),
-  kleur_id INTEGER, 
-  merk_id INTEGER,
-  soort_auto_id INTEGER,
+  kleuren_id INTEGER, 
+  merken_id INTEGER,
+  soort_auto_id INTEGER
 );
 
-DROP TABLE IF EXISTS merk;
-CREATE TABLE merk(
-  ID SERIAL PRIMARY KEY
-  merk_naam TEXT,
+DROP TABLE IF EXISTS merken;
+CREATE TABLE merken(
+  ID SERIAL PRIMARY KEY,
+  merk TEXT
 );
 
-DROP TABLE IF EXISTS kleur;
-CREATE TABLE kleur(
-    ID SERIAL PRIMARY KEY
-    kleur_naam TEXT,
+DROP TABLE IF EXISTS kleuren
+CREATE TABLE kleuren(
+    ID SERIAL PRIMARY KEY,
+    kleur TEXT
 );
 
 DROP TABLE IF EXISTS soort_auto;
-CREATE TABLE(soort_auto
-    ID SERTIAL PRIMARY KEY
-    soort_auto_naam TEXT,
+CREATE TABLE soort_auto(
+    ID SERIAL PRIMARY KEY,
+    soort_auto_naam TEXT
 );
