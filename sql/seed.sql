@@ -4,13 +4,13 @@
 -- want different data? check: https://www.mockaroo.com/910b6c20
 --
 
-insert into kleur(id, kleurnaam) values(1,"zwart");
-insert into kleur(id, kleurnaam) values(2,"wit");
-insert into kleur(id, kleurnaam) values(3,"grijs");
-insert into kleur(id, kleurnaam) values(4,"rood");
-insert into kleur(id, kleurnaam) values(5,"blauw");
-insert into kleur(id, kleurnaam) values(6,"groen");
-insert into kleur(id, kleurnaam) values(7,"geel");
+insert into kleur(id, kleur_naam) values(1,"zwart");
+insert into kleur(id, kleur_naam) values(2,"wit");
+insert into kleur(id, kleur_naam) values(3,"grijs");
+insert into kleur(id, kleur_naam) values(4,"rood");
+insert into kleur(id, kleur_naam) values(5,"blauw");
+insert into kleur(id, kleur_naam) values(6,"groen");
+insert into kleur(id, kleur_naam) values(7,"geel");
 
 
 insert into merk(id, merk_naam) values (1, "Audi");

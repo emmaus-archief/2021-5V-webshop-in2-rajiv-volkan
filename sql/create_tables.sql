@@ -19,11 +19,11 @@ CREATE TABLE merk(
 DROP TABLE IF EXISTS kleur;
 CREATE TABLE kleur(
     ID SERIAL PRIMARY KEY
-    naam_kleur TEXT,
+    kleur_naam TEXT,
 );
 
 DROP TABLE IF EXISTS soort_auto;
 CREATE TABLE(soort_auto
     ID SERTIAL PRIMARY KEY
-    naam_soort_auto TEXT,
+    soort_auto_naam TEXT,
 );
