@@ -32,7 +32,7 @@ insert into soort_auto(id, soort_auto_naam) values(6, "Stationwagon");
 
 
 
-insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values(1,01-123,"Nissan Qaushqai","Mooie stevige grijze auto", 30.000,3,3,3 );
+insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values(1,01-123,"Nissan Qashqai","Mooie stevige grijze auto", 30.000,3,3,3 );
 insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values(2, 02-123,"BMW M5", "Een zwarte auto", 75.000,1,7,5);
 insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values(3,03-123, "Lamborghini Aventador", "Een gele auto", 300.000, 7,5,4 );
 insert into autos(id,code, auto_naam, description, price, kleur_id, merk_id, soort_auto_id) values(4,04-123,"Kia Picanto", "Een rode auto", 20.000, 4,6,2);
