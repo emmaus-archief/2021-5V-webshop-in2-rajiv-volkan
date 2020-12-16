@@ -1,8 +1,8 @@
-DROP TABLE IF EXISTS autos; 
-CREATE TABLE autos (
+DROP TABLE IF EXISTS products; 
+CREATE TABLE products (
   ID SERIAL PRIMARY KEY,
-  code INTEGER,
-  auto_naam TEXT,
+  code VARCHAR(15),
+  auto_naam VARCHAR(255),
   description TEXT,
   price NUMERIC(10, 2),
   kleuren_id INTEGER, 
@@ -16,7 +16,7 @@ CREATE TABLE merken(
   merk TEXT
 );
 
-DROP TABLE IF EXISTS kleuren
+DROP TABLE IF EXISTS kleuren;
 CREATE TABLE kleuren(
     ID SERIAL PRIMARY KEY,
     kleur TEXT
