@@ -21,6 +21,7 @@ insert into merken (id, merk) values (5, 'Lamborghini');
 insert into merken (id, merk) values (6, 'Kia');
 insert into merken (id, merk) values (7, 'BMW');
 insert into merken (id, merk) values (8, 'Opel');
+insert into merken (id, merk) values (9, 'Arbre magique');
 
 
 insert into soort_auto(id, soort_auto_naam) values(1,'Sedan');
@@ -50,6 +51,14 @@ insert into products(id,code, auto_naam, description, price, kleuren_id, merken_
 insert into products(id,code, auto_naam, description, price, kleuren_id, merken_id, soort_auto_id) values(14, 14-1234, 'Zwarte Kia Stonic', 'Mooie zwarte Kia Stonic', 32.000, 1, 6, 3);
 insert into products(id,code, auto_naam, description, price, kleuren_id, merken_id, soort_auto_id) values(15, 15-1234, 'Witte Mercedes c63amg', 'Mooie witte Mercedes c63amg',60.000,2,2,5);
 insert into products(id,code, auto_naam, description, price, kleuren_id, merken_id, soort_auto_id) values(16, 16-1234, 'Blauwe Audi Rs3', 'Mooie blauwe audi Rs3',50.000, 5,1,5);
+
+insert into products(id,code,auto_naam, description, price. kleuren_id, merken_id, soort_auto_id) values (17, 17-1234,'Abre magique Sport','Lekker geurtje voor sportwagens',5,1,9,4);
+insert into products(id,code,auto_naam, description, price. kleuren_id, merken_id, soort_auto_id) values (18,18-1234,'Abre magique Auto Nuova','Lekker geurtje voor sedan',5,5,9,1);
+insert into products(id,code,auto_naam, description, price. kleuren_id, merken_id, soort_auto_id) values (19,19-1234,'Abre magique Fresh Water','Lekker geurtje voor hatchback',5,5,9,2);
+insert into products(id,code,auto_naam, description, price. kleuren_id, merken_id, soort_auto_id) values (20,20-1234,'Abre magique Pino','Lekker geurtje voor SUV',5,6,9,3);
+insert into products(id,code,auto_naam, description, price. kleuren_id, merken_id, soort_auto_id) values (21,21-1234,'Abre magique Fragola','Lekker geurtje voor Coupe',5,4,9,5);
+insert into products(id,code,auto_naam, description, price. kleuren_id, merken_id, soort_auto_id) values (22,22-1234,'Abre magique Vanille','Lekker geurtje voor stationwagon',5,7,9,6);
+
 
 
 
