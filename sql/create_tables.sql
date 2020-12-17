@@ -7,7 +7,8 @@ CREATE TABLE products (
   price NUMERIC(10, 2),
   kleuren_id INTEGER, 
   merken_id INTEGER,
-  soort_auto_id INTEGER
+  soort_auto_id INTEGER,
+  ook_bekeken INTEGER
 );
 
 DROP TABLE IF EXISTS merken;
